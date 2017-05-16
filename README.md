@@ -1,2 +1,2 @@
-# assignment for QA
+# Assignment for QA
 Java learning for automation
