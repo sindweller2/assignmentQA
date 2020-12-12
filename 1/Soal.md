@@ -1,6 +1,6 @@
 1. Buat 3 variable dgn data type string (nama bebas) lalu isi masing2 variable tsb dgn pecahan kata dari sebuah kalimat. Lalu buat satu variable lgi yg menggabungkan 3 variable sebelumnya. Finally, print variable terakhir tersebut (1 point)
 
-2. Reassigning variable: buat sebuah variable nama dgn data type String dgn value nama kalian, lalu print variable tersebut, setelah kalian print, reassign variable tersebut dgn value yg lain, lalu print lgi (1 point)
+2. Buat sebuah variable nama dgn data type String dgn value nama kalian, lalu print variable tersebut, setelah kalian print, reassign variable tersebut dgn value yg lain, lalu print lgi (1 point)
 
 3. Buat sebuah variable dgn data type double yg isinya adalah formula dri luas sebuah segitiga (Panjang * Tinggi / 2), lalu print variable tsb (1 point)
 
